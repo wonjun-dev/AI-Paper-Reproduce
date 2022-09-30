@@ -1,7 +1,0 @@
-torch
-torchvision
-ipykernel
-numpy
-pandas
-pillow
-pytorch-lightning
