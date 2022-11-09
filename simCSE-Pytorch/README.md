@@ -11,3 +11,7 @@ As a result of the experiment, the alignment and uniformity of the [CLS] token w
 <img src="./imgs/eval_loss.png" width='500' height='250'/>
 <img src="./imgs/eval_f1.png" width='500' height='250'/>
 <img src="./imgs/eval_auprc.png" width='500' height='250'/>
+
+## Discussion
+Considering the class distribution, I observed that it works well when the mini-batches are equally configured.
+I guess that it is because the class that occupies the majority is often regarded as a negative pair even though it is the same class.
