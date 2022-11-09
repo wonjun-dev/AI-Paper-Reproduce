@@ -7,10 +7,15 @@ As a result of the experiment, the alignment and uniformity of the [CLS] token w
 ## Results
 
 
-<img src="./imgs/train_loss.png" width='500' height='250'/>
-<img src="./imgs/eval_loss.png" width='500' height='250'/>
-<img src="./imgs/eval_f1.png" width='500' height='250'/>
-<img src="./imgs/eval_auprc.png" width='500' height='250'/>
+<p float='left'>
+<img src="./imgs/train_loss.png" width='400' height='250'/>
+<img src="./imgs/eval_loss.png" width='400' height='250'/>
+</p>
+
+<p float='left'>
+<img src="./imgs/eval_f1.png" width='400' height='250'/>
+<img src="./imgs/eval_auprc.png" width='400' height='250'/>
+</p>
 
 ## Discussion
 Considering the class distribution, I observed that it works well when the mini-batches are equally configured.
