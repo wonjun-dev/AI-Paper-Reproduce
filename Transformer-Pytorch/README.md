@@ -1,6 +1,6 @@
 # Attention is All You Need
 
-This is a [Transformer](https://arxiv.org/abs/1706.03762) implementation that performed German-English(English-German) translation. I followed style of offical Pytorch implementation for learning their code structure of layers and modules.
+This is a [Transformer](https://arxiv.org/abs/1706.03762) implementation that performed German-English(English-German) translation. I followed style of official Pytorch implementation for learning their code structure of layers and modules.
 
 ## Results
 |Metric|Train|Valid|
