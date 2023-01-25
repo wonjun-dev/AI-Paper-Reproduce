@@ -1,7 +1,5 @@
 # AI-Paper-Reproduce
 
-What I cannot create, I do not understand. - Richard Feynman
-
 ## Vision
 - CAM: [Learning Deep Features for Discriminative Localization](https://arxiv.org/abs/1512.04150)
 - GradCAM: [Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization](https://arxiv.org/abs/1610.02391)
